@@ -1,0 +1,32 @@
+{
+  "name": "gauss-vue-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@gauss/core": "^3.7.34",
+    "@gauss/utils": "1.2.0",
+    "@hamlet/icons-vue": "^1.0.1",
+    "@hamlet/render": "^1.8.24",
+    "@hamlet/web": "^1.8.24",
+    "@vueuse/core": "^10.1.2",
+    "axios": "^1.6.5",
+    "dayjs": "1.11.7",
+    "element-plus": "^2.5.1",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@hamlet/web-resolver": "1.0.0",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "sass": "^1.89.0",
+    "vite": "^5.0.11"
+  }
+}
