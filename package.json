@@ -1,5 +1,5 @@
 {
-  "name": "create-frontend-template",
+  "name": "@tineco/create-frontend-template",
   "version": "0.1.2",
   "description": "Create a Gauss-based Vue template project (JavaScript only).",
   "bin": {
