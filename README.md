@@ -1,23 +1,23 @@
-# @tineco/create-frontend-template
+# create-frontend-template
 
 Create a JavaScript-only Vue starter that keeps `@gauss/core` and `@gauss/utils`.
 
 ## Usage
 
 ```bash
-npx @tineco/create-frontend-template my-app
+npx create-frontend-template my-app
 ```
 
 Create from a custom Git template:
 
 ```bash
-npx @tineco/create-frontend-template my-app --git https://github.com/example/template.git
+npx create-frontend-template my-app --git https://github.com/example/template.git
 ```
 
 Clone a specific branch:
 
 ```bash
-npx @tineco/create-frontend-template my-app --git https://github.com/example/template.git --branch main
+npx create-frontend-template my-app --git https://github.com/example/template.git --branch main
 ```
 
 ## Publish to npm (Public)
